@@ -1,0 +1,20 @@
+body {
+    background-image: url("/img/39d0f020fb87348c86dfd68d3e74bfdb.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+ol,
+ul {
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
