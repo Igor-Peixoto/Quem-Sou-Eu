@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+ol,
+ul {
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
